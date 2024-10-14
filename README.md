@@ -26,6 +26,8 @@ It has been used as a benchmark dataset in the following publications:
 
  - Schmidt, M.D. (2011) Machine Science: Automated Modeling of Deterministic and Stochastic Dynamical Systems. PhD Thesis.
 
+ - d’Ascoli, S., Becker, S., Mathis, A., Schwaller, P., and Kilbertus, N. Odeformer: Symbolic regression of dynamical systems with transformers. The Twelfth International Conference on Learning Representations, 2024.
+
 The original problems are from:
 
  - Strogatz, S. (2014) Nonlinear dynamics and chaos: with applications to physics, biology, chemistry, and engineering. Westview press. [link](http://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering) 
